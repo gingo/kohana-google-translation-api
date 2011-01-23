@@ -29,8 +29,10 @@
  *	api_key			your google api key (optional)
  *	ip				your ip (optional) 
  */
-/*return array(
+return array(
+	/*
 	'referer_url'	=> 'http://www.your_site_name.com',
 	'api_key'		=> 'YOUR API KEY',
 	'ip'			=> '127.0.0.1',
-);*/
+	*/
+);
